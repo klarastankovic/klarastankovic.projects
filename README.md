@@ -1,7 +1,5 @@
 # Projects
 
-Ovdje možete vidjeti sve projekte na kojima sam radila do sada.
-Također, u drugom repozitoriju možete vidjeti kod moje protfolio web stranice iz 2022.
+Here you can find all of my early projects, created during 2022. This repository serves as an archive of my first works, where I learned the basics of programming, web development, and other technologies. The projects are diverse and include work with Python, HTML, CSS, and JavaScript.
 
-Here are all the project I have done so far.
-Also, in another repository there is a code of my portfolio web page from 2022.
+You can track my progress from the very beginning, exploring how I experimented, learned, and overcame challenges through these practical projects.
